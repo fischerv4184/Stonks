@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Stock {
   //index = days since start, value = price
-  private ArrayList<Double> values = new ArrayList<Double>();
+  ArrayList<Double> values = new ArrayList<Double>();
   private double price;
   private int day = 0;
   private String name;
